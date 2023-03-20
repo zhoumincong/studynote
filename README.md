@@ -1,5 +1,4 @@
 # Hello-GitHub
+This is my first repository on GitHub
 
-my first repository on GitHub
 
-I love ☕
